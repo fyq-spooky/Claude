@@ -1,0 +1,20 @@
+# Unreal Engine
+ScooterSim/Binaries/
+ScooterSim/Intermediate/
+ScooterSim/Saved/
+ScooterSim/DerivedDataCache/
+ScooterSim/Build/
+ScooterSim/.vs/
+ScooterSim/*.sln
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.xcworkspace
+.vscode/
+.idea/
+
+# Test-Binaries
+ScooterSim/Tools/SimTest/simtest
+ScooterSim/Tools/SimTest/jumptest
